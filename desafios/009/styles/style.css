@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+*{
+    background-color: #202124;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
